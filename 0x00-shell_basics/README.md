@@ -14,3 +14,4 @@ Task 12- script to print the  kind of file
 Task 13- Script that creates a symbolic link
 Task 14- Copy html files
 ### Create a script that moves all files beginning with an uppercase letter to the directory /tmp/u 
+### Create a script that deletes all files in the current working directory that end with the character ~
