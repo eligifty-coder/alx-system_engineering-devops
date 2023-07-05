@@ -12,4 +12,5 @@ Task 10- change the working directory to the previous one.
 Task 11-Lists file
 Task 12- script to print the  kind of file
 Task 13- Script that creates a symbolic link
-Copy html files
+Task 14- Copy html files
+### Create a script that moves all files beginning with an uppercase letter to the directory /tmp/u 
