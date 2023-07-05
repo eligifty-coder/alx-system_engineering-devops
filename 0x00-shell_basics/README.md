@@ -4,3 +4,4 @@ Task 2 - change working directory to user's home directory
 task 3-  display current directory contents in a long format
 task 4- Hidden files
 task 5- Display current directory contents.with numeric  uuid and gid 
+Create a script that creates a directory named my_first_directory in the /tmp/ directory
