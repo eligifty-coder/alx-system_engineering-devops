@@ -10,3 +10,4 @@ task-8 Delete the file betty
 9-Delete 9-firstdirdeletion directory
 Task 10- change the working directory to the previous one.
 Task 11-Lists file
+Task 12- script to print the  kind of file
