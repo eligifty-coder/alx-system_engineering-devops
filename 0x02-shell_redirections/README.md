@@ -16,3 +16,6 @@
 ### Task 16 - Display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd.
 ### Task 18 - Display all lines of the file /etc/ssh/sshd_config starting with a letter.
 ### Task 23 - Write a command that finds all empty files and directories in the current directory and all sub-directories.
+[master cea50c2] Write a command that finds all empty files and directories in the current directory and all sub-directories.
+ 2 files changed, 3 insertions(+), 1 deletion(-)
+ create mode 100755 0x02-shell_redirections/100-empty_casks
