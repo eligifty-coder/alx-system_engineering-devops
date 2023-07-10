@@ -21,3 +21,5 @@
  create mode 100755 0x02-shell_redirections/100-empty_casks
 ### Task 24 -Write a script that lists all the files with a .gif extension in the current directory and all its sub-directories.
 ### Task 25 -Acrostic
+### Task 26 -  The biggest fan
+### Task 25 - Acrostic
